@@ -7,5 +7,6 @@ public class take_input {
         System.out.println("Enter your name: ");
         String name = scanner_one.nextLine();
         System.out.println("Your name is: " + name);
+        scanner_one.close();
     }    
 }
