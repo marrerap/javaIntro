@@ -11,6 +11,7 @@ public class constructor {
 
     public void showDetails() {
         System.out.println("Car horsepower is: " + this.horsepower);
+        System.out.println("Car model is: " + this.model);
     }
 
     class check {
